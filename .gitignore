@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+dist/
+.env
+.env.local
+
+# Vite
+vite.config.ts
+
+# Docker
+pgdata/
+
+# OS files
+.DS_Store
